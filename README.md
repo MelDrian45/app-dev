@@ -1,5 +1,11 @@
 # app-dev
 My first repository
+#Favorite
+1. **Resident Evil Series**
+2. **Avengers Series**
+3. **Iron Man Series**
+4. **Doctor Strange Series**
+
 | **Movies**              | **Release Date**             | **Genre**                | **Link**                          |
 |-------------------------|-----------------|---------------------------------------|-----------------------------------|
 |1. Resident Evil Vendetta|*May 27, 2017*   |  Action Horror                        | [title](https://en.wikipedia.org/wiki/Resident_Evil:_Vendetta)|
